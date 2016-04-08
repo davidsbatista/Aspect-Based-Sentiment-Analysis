@@ -1,0 +1,9 @@
+# 3rd party libs
+stanford-corenlp-python/stanford-corenlp-full-2015-12-09/
+stanford-corenlp-python/stanford-corenlp-full
+
+# pytchon bytecode files
+*.pyc
+
+# zip file
+*.zip
