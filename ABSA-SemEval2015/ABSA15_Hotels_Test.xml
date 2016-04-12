@@ -1,0 +1,1714 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<Reviews>
+	<Review rid="73821_30">
+        <sentences>
+            <sentence id="73821_30#0">
+                <text>Room Was Acceptable</text>
+                <Opinions>
+                    <Opinion target="Room" category="ROOMS#GENERAL" polarity="neutral" from="0" to="4"/>
+                </Opinions>
+            </sentence>
+            <sentence id="73821_30#1">
+                <text>The room was nice and the furnishings were comfortable.</text>
+                <Opinions>
+                    <Opinion target="room" category="ROOMS#GENERAL" polarity="positive" from="4" to="8"/>
+                    <Opinion target="furnishings" category="ROOMS#COMFORT" polarity="positive" from="26" to="37"/>
+                </Opinions>
+            </sentence>
+            <sentence id="73821_30#2">
+                <text>The food from the restaurant was very good but pricey which was the standard for everything in this hotel.</text>
+                <Opinions>
+                    <Opinion target="food" category="FOOD_DRINKS#QUALITY" polarity="positive" from="4" to="8"/>
+                    <Opinion target="food" category="FOOD_DRINKS#PRICES" polarity="negative" from="4" to="8"/>
+                    <Opinion target="hotel" category="HOTEL#PRICES" polarity="negative" from="100" to="105"/>
+                </Opinions>
+            </sentence>
+            <sentence id="73821_30#3">
+                <text>The internet access from the room was $9.95 for a 24 hour period.</text>
+				<Opinions>
+                    <Opinion target="internet access" category="ROOMS_AMENITIES#PRICES" polarity="negative" from="4" to="19"/>
+                </Opinions>
+            </sentence>
+            <sentence id="73821_30#4">
+                <text>To check in for my flight using the business center cost me $4.59 which included three minutes use of the internet and printing seven pages for my boarding pass.</text>
+				<Opinions>
+                    <Opinion target="business center" category="FACILITIES#PRICES" polarity="negative" from="36" to="51"/>
+                </Opinions>
+            </sentence>
+            <sentence id="73821_30#5" OutOfScope="TRUE">
+                <text>I liked the hotel with the exception of being charged for things other hotels provide free.</text>
+            </sentence>
+            <sentence id="73821_30#6">
+                <text>Staff was very pleasant and helpful.</text>
+                <Opinions>
+                    <Opinion target="Staff" category="SERVICE#GENERAL" polarity="positive" from="0" to="5"/>
+                </Opinions>
+            </sentence>
+        </sentences>
+    </Review>
+	<Review rid="73821_3">
+        <sentences>
+            <sentence id="73821_3#0">
+                <text>Great stay!</text>
+                <Opinions>
+                    <Opinion target="NULL" category="HOTEL#GENERAL" polarity="positive" from="0" to="0"/>
+                </Opinions>
+            </sentence>
+            <sentence id="73821_3#1">
+                <text>I booked here as I had a conference to attend at this hotel for 3 days.</text>
+            </sentence>
+            <sentence id="73821_3#2">
+                <text>What a wonderful choice.</text>
+                <Opinions>
+                    <Opinion target="NULL" category="HOTEL#GENERAL" polarity="positive" from="0" to="0"/>
+                </Opinions>
+            </sentence>
+            <sentence id="73821_3#3">
+                <text>Check in was fast and courteous.</text>
+                <Opinions>
+                    <Opinion target="Check in" category="SERVICE#GENERAL" polarity="positive" from="0" to="8"/>
+                </Opinions>
+            </sentence>
+            <sentence id="73821_3#4">
+                <text>Rooms were clean, spacious and comforatable.</text>
+                <Opinions>
+                    <Opinion target="Rooms" category="ROOMS#CLEANLINESS" polarity="positive" from="0" to="5"/>
+                    <Opinion target="Rooms" category="ROOMS#DESIGN_FEATURES" polarity="positive" from="0" to="5"/>
+                    <Opinion target="Rooms" category="ROOMS#COMFORT" polarity="positive" from="0" to="5"/>
+                </Opinions>
+            </sentence>
+            <sentence id="73821_3#5">
+                <text>Food was outstanding, for both the conference and on my own.</text>
+                <Opinions>
+                    <Opinion target="Food" category="FOOD_DRINKS#QUALITY" polarity="positive" from="0" to="4"/>
+                </Opinions>
+            </sentence>
+            <sentence id="73821_3#6">
+                <text>Pool was refreshing on the hot days.</text>
+                <Opinions>
+                    <Opinion target="Pool" category="FACILITIES#GENERAL" polarity="positive" from="0" to="4"/>
+                </Opinions>
+            </sentence>
+            <sentence id="73821_3#7">
+                <text>Overall for the price of this hotel it cannot be beat!</text>
+                <Opinions>
+                    <Opinion target="hotel" category="HOTEL#GENERAL" polarity="positive" from="30" to="35"/>
+                    <Opinion target="hotel" category="HOTEL#PRICES" polarity="positive" from="30" to="35"/>
+                </Opinions>
+            </sentence>
+            <sentence id="73821_3#8">
+                <text>I will definitely stay here again conference or not.</text>
+                <Opinions>
+                    <Opinion target="NULL" category="HOTEL#GENERAL" polarity="positive" from="0" to="0"/>
+                </Opinions>
+            </sentence>
+        </sentences>
+    </Review>
+	<Review rid="73821_26">
+        <sentences>
+            <sentence id="73821_26#0">
+                <text>Good Business Hotel</text>
+                <Opinions>
+                    <Opinion target="Hotel" category="HOTEL#MISCELLANEOUS" polarity="positive" from="14" to="19"/>
+                </Opinions>
+            </sentence>
+            <sentence id="73821_26#1">
+                <text>Very nice hotel for business travelers - very few kids.</text>
+                <Opinions>
+                    <Opinion target="hotel" category="HOTEL#MISCELLANEOUS" polarity="positive" from="10" to="15"/>
+                </Opinions>
+            </sentence>
+            <sentence id="73821_26#2">
+                <text>Great rooms with very comfortable beds.</text>
+                <Opinions>
+                    <Opinion target="rooms" category="ROOMS#GENERAL" polarity="positive" from="6" to="11"/>
+                    <Opinion target="beds" category="ROOMS#COMFORT" polarity="positive" from="34" to="38"/>
+                </Opinions>
+            </sentence>
+            <sentence id="73821_26#3">
+                <text>Big pool area, very good fitness center - nice lobby and common areas.</text>
+                <Opinions>
+                    <Opinion target="pool area" category="FACILITIES#DESIGN_FEATURES" polarity="positive" from="4" to="13"/>
+                    <Opinion target="fitness center" category="FACILITIES#GENERAL" polarity="positive" from="25" to="39"/>
+                    <Opinion target="lobby" category="HOTEL#GENERAL" polarity="positive" from="47" to="52"/>
+                    <Opinion target="common areas" category="HOTEL#GENERAL" polarity="positive" from="57" to="69"/>
+                </Opinions>
+            </sentence>
+            <sentence id="73821_26#4">
+                <text>I had excellent shuttle service.</text>
+                <Opinions>
+                    <Opinion target="shuttle service" category="FACILITIES#GENERAL" polarity="positive" from="16" to="31"/>
+                </Opinions>
+            </sentence>
+            <sentence id="73821_26#5">
+                <text>The Sports Bar had good food with very reasonable prices.</text>
+                <Opinions>
+                    <Opinion target="food" category="FOOD_DRINKS#QUALITY" polarity="positive" from="24" to="28"/>
+                    <Opinion target="food" category="FOOD_DRINKS#PRICES" polarity="positive" from="24" to="28"/>
+                </Opinions>
+            </sentence>
+            <sentence id="73821_26#6">
+                <text>The only downside was a per minute charge to use the business center computers.</text>
+                <Opinions>
+                    <Opinion target="business center computers" category="FACILITIES#PRICES" polarity="negative" from="53" to="78"/>
+                </Opinions>
+            </sentence>
+        </sentences>
+    </Review>	
+	<Review rid="73821_21">
+        <sentences>
+            <sentence id="73821_21#0">
+                <text>Perfectly Close to the Airport</text>
+                <Opinions>
+                    <Opinion target="NULL" category="LOCATION#GENERAL" polarity="positive" from="0" to="0"/>
+                </Opinions>
+            </sentence>
+            <sentence id="73821_21#1">
+                <text>I booked this because of it's proximity to the airport for our departure.</text>
+				<Opinions>
+                    <Opinion target="NULL" category="LOCATION#GENERAL" polarity="positive" from="0" to="0"/>
+                </Opinions>
+            </sentence>
+            <sentence id="73821_21#2">
+                <text>The staff was friendly and helpful, they upgraded our room to queen beds without us asking.</text>
+                <Opinions>
+                    <Opinion target="staff" category="SERVICE#GENERAL" polarity="positive" from="4" to="9"/>
+                </Opinions>
+            </sentence>
+            <sentence id="73821_21#3">
+                <text>The rooms are lovely, and the hotel is quiet even though it is so close to the airport.</text>
+                <Opinions>
+                    <Opinion target="rooms" category="ROOMS#GENERAL" polarity="positive" from="4" to="9"/>
+                    <Opinion target="hotel" category="HOTEL#COMFORT" polarity="positive" from="30" to="35"/>
+                </Opinions>
+            </sentence>
+            <sentence id="73821_21#4">
+                <text>The 24 hour shuttle to the airport is very, very convenient and gets you there in about 4 minutes.</text>
+                <Opinions>
+                    <Opinion target="24 hour shuttle" category="FACILITIES#COMFORT" polarity="positive" from="4" to="19"/>
+                </Opinions>
+            </sentence>
+            <sentence id="73821_21#5">
+                <text>We ate at the restaurant and the food was good hearty and the best avocado I've ever had.....so all in all you can't beat the deal, the location, the clean rooms, and the service.....</text>
+                <Opinions>
+                    <Opinion target="food" category="FOOD_DRINKS#QUALITY" polarity="positive" from="33" to="37"/>
+                    <Opinion target="avocado" category="FOOD_DRINKS#QUALITY" polarity="positive" from="67" to="74"/>
+                    <Opinion target="NULL" category="HOTEL#PRICES" polarity="positive" from="0" to="0"/>
+                    <Opinion target="location" category="LOCATION#GENERAL" polarity="positive" from="136" to="144"/>
+                    <Opinion target="rooms" category="ROOMS#CLEANLINESS" polarity="positive" from="156" to="161"/>
+                    <Opinion target="service" category="SERVICE#GENERAL" polarity="positive" from="171" to="178"/>
+                </Opinions>
+            </sentence>
+        </sentences>
+    </Review>
+	<Review rid="73821_2">
+        <sentences>
+            <sentence id="73821_2#0">
+                <text>A Great Hotel</text>
+                <Opinions>
+                    <Opinion target="Hotel" category="HOTEL#GENERAL" polarity="positive" from="8" to="13"/>
+                </Opinions>
+            </sentence>
+            <sentence id="73821_2#1">
+                <text>Our stay at this hotel was wonderful.</text>
+                <Opinions>
+                    <Opinion target="hotel" category="HOTEL#GENERAL" polarity="positive" from="17" to="22"/>
+                </Opinions>
+            </sentence>
+            <sentence id="73821_2#2">
+                <text>The staff was very courteous upon check-in.</text>
+                <Opinions>
+                    <Opinion target="staff" category="SERVICE#GENERAL" polarity="positive" from="4" to="9"/>
+                </Opinions>
+            </sentence>
+            <sentence id="73821_2#3">
+                <text>Our room was perfectly spotless.</text>
+                <Opinions>
+                    <Opinion target="room" category="ROOMS#CLEANLINESS" polarity="positive" from="4" to="8"/>
+                </Opinions>
+            </sentence>
+            <sentence id="73821_2#4">
+                <text>(I had to use an outlet behind the headboard, and expected to see some type of dirt when I pulled the bed out, but to my surprise, not even dust!)</text>
+				<Opinions>
+                    <Opinion target="NULL" category="ROOMS#CLEANLINESS" polarity="positive" from="0" to="0"/>
+                </Opinions>
+            </sentence>
+            <sentence id="73821_2#5">
+                <text>Very clean and well maintained.</text>
+                <Opinions>
+                    <Opinion target="NULL" category="ROOMS#CLEANLINESS" polarity="positive" from="0" to="0"/>
+                    <Opinion target="NULL" category="ROOMS#QUALITY" polarity="positive" from="0" to="0"/>
+                </Opinions>
+            </sentence>
+            <sentence id="73821_2#6">
+                <text>Some nice touches of southwest decor here and there.</text>
+                <Opinions>
+                    <Opinion target="NULL" category="ROOMS#DESIGN_FEATURES" polarity="positive" from="0" to="0"/>
+                </Opinions>
+            </sentence>
+            <sentence id="73821_2#7">
+                <text>No problems whatsoever, and I would recommend this hotel to anybody.</text>
+                <Opinions>
+                    <Opinion target="hotel" category="HOTEL#GENERAL" polarity="positive" from="51" to="56"/>
+                </Opinions>
+            </sentence>
+        </sentences>
+    </Review>
+	<Review rid="73739_13">
+        <sentences>
+            <sentence id="73739_13#0">
+                <text>Good service but rude desk clerk</text>
+                <Opinions>
+                    <Opinion target="service" category="SERVICE#GENERAL" polarity="positive" from="5" to="12"/>
+                    <Opinion target="desk clerk" category="SERVICE#GENERAL" polarity="negative" from="22" to="32"/>
+                </Opinions>
+            </sentence>
+            <sentence id="73739_13#1">
+                <text>Oct.7, 2006 I arrived at the hotel and went to the front desk to check in.</text>
+            </sentence>
+            <sentence id="73739_13#2">
+                <text>The desk clerk was checking my information in the computer and I asked her if there were any suites available as I had called the hotel a week before my arrival and and was assured that I could upgrade to a suite.</text>
+            </sentence>
+            <sentence id="73739_13#3">
+                <text>She immediately began to yell that if I wanted an upgrade I would have to pay for it.</text>
+				<Opinions>
+                    <Opinion target="NULL" category="SERVICE#GENERAL" polarity="negative" from="0" to="0"/>
+                </Opinions>
+            </sentence>
+            <sentence id="73739_13#4">
+                <text>When I went to my room, I took the AAA Tour Book back to the desk and showed her where it specifically stated that the reservation could be upgraded if a suite was available and it would be free of charge.</text>
+            </sentence>
+            <sentence id="73739_13#5">
+                <text>The same desk clerk started to yell again stating that she had told me when I called that I could upgrade for a charge and that was her rules.</text>
+				<Opinions>
+                    <Opinion target="desk clerk" category="SERVICE#GENERAL" polarity="negative" from="9" to="19"/>
+                </Opinions>
+            </sentence>
+            <sentence id="73739_13#6">
+                <text>In fact I had spoken to a gentleman when I had called the week before, I never spoke to a lady.</text>
+            </sentence>
+            <sentence id="73739_13#7">
+                <text>I asked her why she was raising her voice and if this was the way she spoke to guests.</text>
+            </sentence>
+            <sentence id="73739_13#8">
+                <text>She completely ignored me and just kept on yelling.</text>
+				<Opinions>
+                    <Opinion target="NULL" category="SERVICE#GENERAL" polarity="negative" from="0" to="0"/>
+                </Opinions>
+            </sentence>
+            <sentence id="73739_13#9">
+                <text>I asked to speak to the manager and she told me she was the manager when in fact the manager's name was clearly displayed on the wall.</text>
+				<Opinions>
+                    <Opinion target="NULL" category="SERVICE#GENERAL" polarity="negative" from="0" to="0"/>
+                </Opinions>
+            </sentence>
+            <sentence id="73739_13#10">
+                <text>She walked away from the desk and the manager came to assist me about 10 mins later.</text>
+            </sentence>
+            <sentence id="73739_13#11">
+                <text>This incident was very humiliating as other guests were present.</text>
+                <Opinions>
+                    <Opinion target="NULL" category="SERVICE#GENERAL" polarity="negative" from="0" to="0"/>
+                </Opinions>
+            </sentence>
+            <sentence id="73739_13#12">
+                <text>I am writing this review because this kind of behavior was totally unacceptable and hopefully no other guests will be treated in this manner.</text>
+                <Opinions>
+                    <Opinion target="NULL" category="SERVICE#GENERAL" polarity="negative" from="0" to="0"/>
+                </Opinions>
+            </sentence>
+            <sentence id="73739_13#13">
+                <text>Overall service was great and the staff as a whole were very courteous and helpful.</text>
+                <Opinions>
+                    <Opinion target="service" category="SERVICE#GENERAL" polarity="positive" from="8" to="15"/>
+                    <Opinion target="staff" category="SERVICE#GENERAL" polarity="positive" from="34" to="39"/>
+                </Opinions>
+            </sentence>
+        </sentences>
+    </Review>
+	<Review rid="73727_9">
+        <sentences>
+            <sentence id="73727_9#0">
+                <text>Not bad for one night</text>
+                <Opinions>
+                    <Opinion target="NULL" category="HOTEL#GENERAL" polarity="neutral" from="0" to="0"/>
+                </Opinions>
+            </sentence>
+            <sentence id="73727_9#1">
+                <text>Stayed on a Sunday night.</text>
+            </sentence>
+            <sentence id="73727_9#2">
+                <text>Front desk staff were friendly and helpful both with early check-in and an early check-out.</text>
+                <Opinions>
+                    <Opinion target="Front desk staff" category="SERVICE#GENERAL" polarity="positive" from="0" to="16"/>
+                </Opinions>
+            </sentence>
+            <sentence id="73727_9#3">
+                <text>Room was large and spacious, but rather bland.</text>
+                <Opinions>
+                    <Opinion target="Room" category="ROOMS#DESIGN_FEATURES" polarity="positive" from="0" to="4"/>
+                    <Opinion target="Room" category="ROOMS#COMFORT" polarity="positive" from="0" to="4"/>
+                    <Opinion target="Room" category="ROOMS#DESIGN_FEATURES" polarity="negative" from="0" to="4"/>
+                </Opinions>
+            </sentence>
+            <sentence id="73727_9#4">
+                <text>Excellent for a business traveler, or for a stayover with early departure to Phoenix Sky Harbor Airport, took 8 minutes to get to the airport via 10 freeway.</text>
+                <Opinions>
+                    <Opinion target="NULL" category="HOTEL#MISCELLANEOUS" polarity="positive" from="0" to="0"/>
+                    <Opinion target="NULL" category="LOCATION#GENERAL" polarity="positive" from="0" to="0"/>
+                </Opinions>
+            </sentence>
+            <sentence id="73727_9#5">
+                <text>Ideal location.</text>
+                <Opinions>
+                    <Opinion target="location" category="LOCATION#GENERAL" polarity="positive" from="6" to="14"/>
+                </Opinions>
+            </sentence>
+            <sentence id="73727_9#6">
+                <text>Very affordable rate at low $50s.</text>
+                <Opinions>
+                    <Opinion target="NULL" category="HOTEL#PRICES" polarity="positive" from="0" to="0"/>
+                </Opinions>
+            </sentence>
+            <sentence id="73727_9#7">
+                <text>The pool looked nice, as did their restaurant, but didn't try either one.</text>
+                <Opinions>
+                    <Opinion target="pool" category="FACILITIES#GENERAL" polarity="positive" from="4" to="8"/>
+                    <Opinion target="restaurant" category="FACILITIES#GENERAL" polarity="positive" from="35" to="45"/>
+                </Opinions>
+            </sentence>
+        </sentences>
+    </Review>
+	<Review rid="73727_15">
+        <sentences>
+            <sentence id="73727_15#0">
+                <text>Well below average</text>
+                <Opinions>
+                    <Opinion target="NULL" category="HOTEL#GENERAL" polarity="negative" from="0" to="0"/>
+                </Opinions>
+            </sentence>
+            <sentence id="73727_15#1">
+                <text>I was looking for an above-average traveler's hotel for a one-night stay.</text>
+            </sentence>
+            <sentence id="73727_15#2">
+                <text>Unfortunately, this is below average.</text>
+                <Opinions>
+                    <Opinion target="NULL" category="HOTEL#GENERAL" polarity="negative" from="0" to="0"/>
+                </Opinions>
+            </sentence>
+            <sentence id="73727_15#3">
+                <text>Rooms are large but very plain, with furnishings and fixtures as cheap as possible.</text>
+                <Opinions>
+                    <Opinion target="Rooms" category="ROOMS#DESIGN_FEATURES" polarity="positive" from="0" to="5"/>
+                    <Opinion target="Rooms" category="ROOMS#DESIGN_FEATURES" polarity="negative" from="0" to="5"/>
+                    <Opinion target="fixtures" category="ROOMS#QUALITY" polarity="negative" from="53" to="61"/>
+                    <Opinion target="furnishings" category="ROOMS#QUALITY" polarity="negative" from="37" to="48"/>
+                </Opinions>
+            </sentence>
+            <sentence id="73727_15#4">
+                <text>The hotel shows its age and badly needs refurbishing.</text>
+                <Opinions>
+                    <Opinion target="hotel" category="HOTEL#QUALITY" polarity="negative" from="4" to="9"/>
+                </Opinions>
+            </sentence>
+            <sentence id="73727_15#5">
+                <text>Bathroom sink was on a slight slant because it was pulling out of the wall.</text>
+                <Opinions>
+                    <Opinion target="Bathroom sink" category="ROOMS#QUALITY" polarity="negative" from="0" to="13"/>
+                </Opinions>
+            </sentence>
+            <sentence id="73727_15#6">
+                <text>Nothing is especially terrible or unacceptable about this hotel.</text>
+                <Opinions>
+                    <Opinion target="hotel" category="HOTEL#GENERAL" polarity="neutral" from="58" to="63"/>
+                </Opinions>
+            </sentence>
+            <sentence id="73727_15#7">
+                <text>It is just subpar.</text>
+                <Opinions>
+                    <Opinion target="NULL" category="HOTEL#GENERAL" polarity="negative" from="0" to="0"/>
+                </Opinions>
+            </sentence>
+        </sentences>
+    </Review>
+	<Review rid="73727_13">
+        <sentences>
+            <sentence id="73727_13#0">
+                <text>Don't do it!!</text>
+                <Opinions>
+                    <Opinion target="NULL" category="HOTEL#GENERAL" polarity="negative" from="0" to="0"/>
+                </Opinions>
+            </sentence>
+            <sentence id="73727_13#1">
+                <text>This place is run down, dirty and loud.</text>
+                <Opinions>
+                    <Opinion target="place" category="HOTEL#QUALITY" polarity="negative" from="5" to="10"/>
+                    <Opinion target="place" category="HOTEL#CLEANLINESS" polarity="negative" from="5" to="10"/>
+                    <Opinion target="place" category="HOTEL#COMFORT" polarity="negative" from="5" to="10"/>
+                </Opinions>
+            </sentence>
+            <sentence id="73727_13#2">
+                <text>The pictures they provide on the web do not tell the story so don't be fooled.</text>
+				<Opinions>
+                    <Opinion target="NULL" category="HOTEL#MISCELLANEOUS" polarity="negative" from="0" to="0"/>
+                </Opinions>
+            </sentence>
+        </sentences>
+    </Review>
+	<Review rid="73718_2">
+        <sentences>
+            <sentence id="73718_2#0">
+                <text>Great Restaurant</text>
+                <Opinions>
+                    <Opinion target="Restaurant" category="FACILITIES#GENERAL" polarity="positive" from="6" to="16"/>
+                </Opinions>
+            </sentence>
+            <sentence id="73718_2#1">
+                <text>This property has really improved since our last stay.</text>
+                <Opinions>
+                    <Opinion target="property" category="HOTEL#GENERAL" polarity="positive" from="5" to="13"/>
+                </Opinions>
+            </sentence>
+            <sentence id="73718_2#2">
+                <text>Room was cool, clean and comfy.</text>
+                <Opinions>
+                    <Opinion target="Room" category="ROOMS#GENERAL" polarity="positive" from="0" to="4"/>
+                    <Opinion target="Room" category="ROOMS#CLEANLINESS" polarity="positive" from="0" to="4"/>
+                    <Opinion target="Room" category="ROOMS#COMFORT" polarity="positive" from="0" to="4"/>
+                </Opinions>
+            </sentence>
+            <sentence id="73718_2#3">
+                <text>The restaurant downstairs is the best kept secret in the area!</text>
+                <Opinions>
+                    <Opinion target="restaurant" category="FACILITIES#GENERAL" polarity="positive" from="4" to="14"/>
+                </Opinions>
+            </sentence>
+            <sentence id="73718_2#4">
+                <text>The food and service was outstanding (try the seafood platter).</text>
+                <Opinions>
+                    <Opinion target="food" category="FOOD_DRINKS#QUALITY" polarity="positive" from="4" to="8"/>
+                    <Opinion target="service" category="SERVICE#GENERAL" polarity="positive" from="13" to="20"/>
+                    <Opinion target="seafood platter" category="FOOD_DRINKS#QUALITY" polarity="positive" from="46" to="61"/>
+                </Opinions>
+            </sentence>
+            <sentence id="73718_2#5">
+                <text>Staff was courteous and efficient.</text>
+                <Opinions>
+                    <Opinion target="Staff" category="SERVICE#GENERAL" polarity="positive" from="0" to="5"/>
+                </Opinions>
+            </sentence>
+        </sentences>
+    </Review>	
+	<Review rid="73727_17">
+        <sentences>
+            <sentence id="73727_17#0">
+                <text>I keep on coming back!</text>
+				<Opinions>
+                    <Opinion target="NULL" category="HOTEL#GENERAL" polarity="positive" from="0" to="0"/>
+                </Opinions>
+            </sentence>
+            <sentence id="73727_17#1">
+                <text>I've been going to this place every year and I keep on coming back to this hotel.</text>
+				<Opinions>
+                    <Opinion target="hotel" category="HOTEL#GENERAL" polarity="positive" from="75" to="80"/>
+                </Opinions>
+            </sentence>
+            <sentence id="73727_17#2">
+                <text>The reason why?</text>
+            </sentence>
+            <sentence id="73727_17#3">
+                <text>The breakfast is excellent!</text>
+                <Opinions>
+                    <Opinion target="breakfast" category="FOOD_DRINKS#QUALITY" polarity="positive" from="4" to="13"/>
+                </Opinions>
+            </sentence>
+            <sentence id="73727_17#4">
+                <text>It is rare that hotels in this class serve hot meals, yet they do!</text>
+				<Opinions>
+                    <Opinion target="meals" category="FOOD_DRINKS#STYLE_OPTIONS" polarity="positive" from="47" to="52"/>
+                </Opinions>
+            </sentence>
+            <sentence id="73727_17#5">
+                <text>Breakfast is fit for a king.</text>
+                <Opinions>
+                    <Opinion target="Breakfast" category="FOOD_DRINKS#QUALITY" polarity="positive" from="0" to="9"/>
+                </Opinions>
+            </sentence>
+            <sentence id="73727_17#6">
+                <text>Plus, the staff at the front desk are always courteous and friendly.</text>
+                <Opinions>
+                    <Opinion target="staff at the front desk" category="SERVICE#GENERAL" polarity="positive" from="10" to="33"/>
+                </Opinions>
+            </sentence>
+            <sentence id="73727_17#7">
+                <text>Though the bathrooms are a bit old, the beds are still cozy.</text>
+                <Opinions>
+                    <Opinion target="bathrooms" category="ROOMS#QUALITY" polarity="negative" from="11" to="20"/>
+                    <Opinion target="beds" category="ROOMS#COMFORT" polarity="positive" from="40" to="44"/>
+                </Opinions>
+            </sentence>
+            <sentence id="73727_17#8">
+                <text>And the hotel is right in the middle of everywhere.</text>
+                <Opinions>
+                    <Opinion target="hotel" category="LOCATION#GENERAL" polarity="positive" from="8" to="13"/>
+                </Opinions>
+            </sentence>
+        </sentences>
+    </Review>
+	<Review rid="73821_19">
+        <sentences>
+            <sentence id="73821_19#0">
+                <text>Above average hotel for great price !</text>
+                <Opinions>
+                    <Opinion target="hotel" category="HOTEL#GENERAL" polarity="positive" from="14" to="19"/>
+                    <Opinion target="hotel" category="HOTEL#PRICES" polarity="positive" from="14" to="19"/>
+                </Opinions>
+            </sentence>
+            <sentence id="73821_19#1">
+                <text>Got a great price of $64 per night.</text>
+                <Opinions>
+                    <Opinion target="NULL" category="HOTEL#PRICES" polarity="positive" from="0" to="0"/>
+                </Opinions>
+            </sentence>
+            <sentence id="73821_19#2">
+                <text>The room was perfect for me, the bed was one of the most comfortable I've ever had in a hotel.</text>
+                <Opinions>
+                    <Opinion target="room" category="ROOMS#GENERAL" polarity="positive" from="4" to="8"/>
+                    <Opinion target="bed" category="ROOMS#COMFORT" polarity="positive" from="33" to="36"/>
+                </Opinions>
+            </sentence>
+            <sentence id="73821_19#3" OutOfScope="TRUE">
+                <text>Five fluffy pillows - no slabs of foam rubber concrete that most hotels provide - and a snow white down comforter.</text>
+            </sentence>
+            <sentence id="73821_19#4">
+                <text>Very clean, great service - they gave me a complimentary bottle of wine because I missed the hotel shuttle.</text>
+                <Opinions>
+                    <Opinion target="service" category="SERVICE#GENERAL" polarity="positive" from="18" to="25"/>
+                    <Opinion target="NULL" category="HOTEL#CLEANLINESS" polarity="positive" from="0" to="0"/>
+                    <Opinion target="NULL" category="SERVICE#GENERAL" polarity="positive" from="0" to="0"/>
+                </Opinions>
+            </sentence>
+            <sentence id="73821_19#5">
+                <text>Good restaurant and bar attached.</text>
+                <Opinions>
+                    <Opinion target="restaurant" category="FACILITIES#GENERAL" polarity="positive" from="5" to="15"/>
+                    <Opinion target="bar" category="FACILITIES#GENERAL" polarity="positive" from="20" to="23"/>
+                </Opinions>
+            </sentence>
+            <sentence id="73821_19#6">
+                <text>Close to Scottsdale and the University.</text>
+                <Opinions>
+                    <Opinion target="NULL" category="LOCATION#GENERAL" polarity="positive" from="0" to="0"/>
+                </Opinions>
+            </sentence>
+            <sentence id="73821_19#7" OutOfScope="TRUE">
+                <text>I will never diss Paris Hilton again !</text>
+            </sentence>
+        </sentences>
+    </Review>
+    <Review rid="73718_1">
+        <sentences>
+            <sentence id="73718_1#0">
+                <text>Price was right</text>
+                <Opinions>
+                    <Opinion target="NULL" category="HOTEL#PRICES" polarity="positive" from="0" to="0"/>
+                </Opinions>
+            </sentence>
+            <sentence id="73718_1#1">
+                <text>Pleasantly surprised at $69 night.</text>
+                <Opinions>
+                    <Opinion target="NULL" category="HOTEL#PRICES" polarity="positive" from="0" to="0"/>
+                </Opinions>
+            </sentence>
+            <sentence id="73718_1#2">
+                <text>Front desk was not helpful, but who cares...for $69 you get a clean, fairly-large room, central air, refrig/micro, free (but sparse) breakfast buffet.</text>
+                <Opinions>
+                    <Opinion target="Front desk" category="SERVICE#GENERAL" polarity="negative" from="0" to="10"/>
+                    <Opinion target="room" category="ROOMS#PRICES" polarity="positive" from="82" to="86"/>
+                    <Opinion target="room" category="ROOMS#CLEANLINESS" polarity="positive" from="82" to="86"/>
+                    <Opinion target="room" category="ROOMS#DESIGN_FEATURES" polarity="positive" from="82" to="86"/>
+                    <Opinion target="breakfast buffet" category="FOOD_DRINKS#PRICES" polarity="positive" from="133" to="149"/>
+                    <Opinion target="breakfast buffet" category="FOOD_DRINKS#STYLE_OPTIONS" polarity="negative" from="133" to="149"/>
+                </Opinions>
+            </sentence>
+            <sentence id="73718_1#3">
+                <text>Stayed there because it was near Banner Hospital.</text>
+                <Opinions>
+                    <Opinion target="NULL" category="LOCATION#GENERAL" polarity="positive" from="0" to="0"/>
+                </Opinions>
+			</sentence>
+        </sentences>
+    </Review>
+	<Review rid="73718_17">
+        <sentences>
+            <sentence id="73718_17#0">
+                <text>Friendly Staff</text>
+                <Opinions>
+                    <Opinion target="Staff" category="SERVICE#GENERAL" polarity="positive" from="9" to="14"/>
+                </Opinions>
+            </sentence>
+            <sentence id="73718_17#1">
+                <text>We stayed here at the beginning and end of a trip to Arizona so we were here during two differernt weekends.</text>
+            </sentence>
+            <sentence id="73718_17#2">
+                <text>The staff was extremely helpful and friendly.</text>
+                <Opinions>
+                    <Opinion target="staff" category="SERVICE#GENERAL" polarity="positive" from="4" to="9"/>
+                </Opinions>
+            </sentence>
+            <sentence id="73718_17#3">
+                <text>I would say they are the best part of the hotel!</text>
+                <Opinions>
+                    <Opinion target="NULL" category="SERVICE#GENERAL" polarity="positive" from="0" to="0"/>
+                </Opinions>
+            </sentence>
+            <sentence id="73718_17#4">
+                <text>An elevator was broken during our last stay and it was most annoying, but did not greatly impact the overall experience.</text>
+                <Opinions>
+                    <Opinion target="elevator" category="FACILITIES#QUALITY" polarity="negative" from="3" to="11"/>
+                    <Opinion target="NULL" category="HOTEL#GENERAL" polarity="positive" from="0" to="0"/>
+                </Opinions>
+            </sentence>
+            <sentence id="73718_17#5" OutOfScope="TRUE">
+                <text>We found the place quiet, the complimentary breakfast a notch above some others at similar chain hotels, and the parking adequate.</text>
+            </sentence>
+            <sentence id="73718_17#6">
+                <text>All in all it is a nice and affordable spot for sightseeing in the area.</text>
+                <Opinions>
+                    <Opinion target="spot" category="HOTEL#GENERAL" polarity="positive" from="39" to="43"/>
+                    <Opinion target="spot" category="HOTEL#PRICES" polarity="positive" from="39" to="43"/>
+                    <Opinion target="spot" category="HOTEL#MISCELLANEOUS" polarity="positive" from="39" to="43"/>
+                </Opinions>
+            </sentence>
+        </sentences>
+    </Review>	
+	<Review rid="73718_24">
+        <sentences>
+            <sentence id="73718_24#0">
+                <text>Administrative Issues</text>
+                <Opinions>
+                    <Opinion target="NULL" category="SERVICE#GENERAL" polarity="negative" from="0" to="0"/>
+                </Opinions>
+            </sentence>
+            <sentence id="73718_24#1">
+                <text>The Best Western Executive Park Hotel is an average place to stay (though a bit far from downtown) with a substandard management team.</text>
+                <Opinions>
+                    <Opinion target="Best Western Executive Park Hotel" category="HOTEL#GENERAL" polarity="neutral" from="4" to="37"/>
+                    <Opinion target="Best Western Executive Park Hotel" category="LOCATION#GENERAL" polarity="negative" from="4" to="37"/>
+                    <Opinion target="management team" category="SERVICE#GENERAL" polarity="negative" from="118" to="133"/>
+                </Opinions>
+            </sentence>
+            <sentence id="73718_24#2">
+                <text>I've tried to obtain a receipt for my stay to replace one I lost and have been ignored.</text>
+                <Opinions>
+                    <Opinion target="NULL" category="SERVICE#GENERAL" polarity="negative" from="0" to="0"/>
+                </Opinions>
+            </sentence>
+            <sentence id="73718_24#3">
+                <text>There's never anyone to talk to from management and phone calls/e mails receive no response.</text>
+                <Opinions>
+                    <Opinion target="management" category="SERVICE#GENERAL" polarity="negative" from="37" to="47"/>
+                    <Opinion target="NULL" category="SERVICE#GENERAL" polarity="negative" from="0" to="0"/>
+                </Opinions>
+            </sentence>
+            <sentence id="73718_24#4">
+                <text>It's not a recipe for another stay.</text>
+                <Opinions>
+                    <Opinion target="NULL" category="HOTEL#GENERAL" polarity="negative" from="0" to="0"/>
+                </Opinions>
+            </sentence>
+        </sentences>
+    </Review>
+	<Review rid="73718_4">
+        <sentences>
+            <sentence id="73718_4#0">
+                <text>Not impressed</text>
+                <Opinions>
+                    <Opinion target="NULL" category="HOTEL#GENERAL" polarity="negative" from="0" to="0"/>
+                </Opinions>
+            </sentence>
+            <sentence id="73718_4#1">
+                <text>The desk person was in a rude mood.</text>
+                <Opinions>
+                    <Opinion target="desk person" category="SERVICE#GENERAL" polarity="negative" from="4" to="15"/>
+                </Opinions>
+            </sentence>
+            <sentence id="73718_4#2">
+                <text>There was construction being done on the street in front of the hotel; which made it very difficult driving around.</text>
+                <Opinions>
+                    <Opinion target="NULL" category="HOTEL#MISCELLANEOUS" polarity="negative" from="0" to="0"/>
+                </Opinions>
+            </sentence>
+            <sentence id="73718_4#3">
+                <text>The air conditioner was very loud.</text>
+                <Opinions>
+                    <Opinion target="air conditioner" category="ROOMS_AMENITIES#QUALITY" polarity="negative" from="4" to="19"/>
+                </Opinions>
+            </sentence>
+            <sentence id="73718_4#4">
+                <text>Nothing told us that there was a free breakfast - the restaurant looked like it was closed.</text>
+                <Opinions>
+                    <Opinion target="restaurant" category="FACILITIES#GENERAL" polarity="negative" from="54" to="64"/>
+                </Opinions>
+            </sentence>
+            <sentence id="73718_4#5">
+                <text>All in all the price was way too high for such a poor accomodations.</text>
+                <Opinions>
+                    <Opinion target="accomodations" category="HOTEL#GENERAL" polarity="negative" from="54" to="67"/>
+                    <Opinion target="accomodations" category="HOTEL#PRICES" polarity="negative" from="54" to="67"/>
+                </Opinions>
+            </sentence>
+        </sentences>
+    </Review>
+	<Review rid="73727_1">
+        <sentences>
+            <sentence id="73727_1#0">
+                <text>Extremely reasonable for the price paid.</text>
+                <Opinions>
+                    <Opinion target="NULL" category="HOTEL#GENERAL" polarity="positive" from="0" to="0"/>
+                    <Opinion target="NULL" category="HOTEL#PRICES" polarity="neutral" from="0" to="0"/>
+                </Opinions>
+            </sentence>
+            <sentence id="73727_1#1">
+                <text>Excellent service.</text>
+                <Opinions>
+                    <Opinion target="service" category="SERVICE#GENERAL" polarity="positive" from="10" to="17"/>
+                </Opinions>
+            </sentence>
+            <sentence id="73727_1#2">
+                <text>I was there 3 nights for a conference and am giving it 5 stars, as it was quite reasonably priced for what we received.</text>
+                <Opinions>
+                    <Opinion target="NULL" category="HOTEL#GENERAL" polarity="positive" from="0" to="0"/>
+                    <Opinion target="NULL" category="HOTEL#PRICES" polarity="positive" from="0" to="0"/>
+                </Opinions>
+            </sentence>
+            <sentence id="73727_1#3">
+                <text>The staff was friendly overall.</text>
+                <Opinions>
+                    <Opinion target="staff" category="SERVICE#GENERAL" polarity="positive" from="4" to="9"/>
+                </Opinions>
+            </sentence>
+            <sentence id="73727_1#4" OutOfScope="TRUE">
+                <text>Of course, it's not the Four Seasons, but the stay was pleasant.... </text>
+            </sentence>
+            <sentence id="73727_1#5">
+                <text>Airport shuttle service was convenient as I chose not to rent a car during this trip.</text>
+                <Opinions>
+                    <Opinion target="Airport shuttle service" category="FACILITIES#COMFORT" polarity="positive" from="0" to="23"/>
+                </Opinions>
+            </sentence>
+            <sentence id="73727_1#6">
+                <text>No complaints about the room, pretty clean.</text>
+                <Opinions>
+                    <Opinion target="room" category="ROOMS#GENERAL" polarity="positive" from="24" to="28"/>
+                    <Opinion target="room" category="ROOMS#CLEANLINESS" polarity="positive" from="24" to="28"/>
+                </Opinions>
+            </sentence>
+            <sentence id="73727_1#7">
+                <text>I went to the lunch buffet twice and had a nice meal and again at very reasonable price.</text>
+                <Opinions>
+                    <Opinion target="lunch buffet" category="FOOD_DRINKS#QUALITY" polarity="positive" from="14" to="26"/>
+                    <Opinion target="lunch buffet" category="FOOD_DRINKS#PRICES" polarity="positive" from="14" to="26"/>
+                </Opinions>
+            </sentence>
+            <sentence id="73727_1#8">
+                <text>There was a few restaurants within walking distance to eat at as well.</text>
+                <Opinions>
+                    <Opinion target="NULL" category="LOCATION#GENERAL" polarity="positive" from="0" to="0"/>
+                </Opinions>
+            </sentence>
+            <sentence id="73727_1#9">
+                <text>The conference/banquet room was great.</text>
+                <Opinions>
+                    <Opinion target="conference/banquet room" category="FACILITIES#GENERAL" polarity="positive" from="4" to="27"/>
+                </Opinions>
+            </sentence>
+            <sentence id="73727_1#10">
+                <text>Very accomodating, good acoustics, clean.</text>
+                <Opinions>
+                    <Opinion target="NULL" category="FACILITIES#GENERAL" polarity="positive" from="0" to="0"/>
+                    <Opinion target="NULL" category="FACILITIES#QUALITY" polarity="positive" from="0" to="0"/>
+                    <Opinion target="NULL" category="FACILITIES#CLEANLINESS" polarity="positive" from="0" to="0"/>
+                </Opinions>
+            </sentence>
+            <sentence id="73727_1#11">
+                <text>Not sure where the location was in reference to tourist spots, etc....but for a local conference, it was perfect.</text>
+                <Opinions>
+                    <Opinion target="location" category="LOCATION#GENERAL" polarity="positive" from="19" to="27"/>
+                </Opinions>
+            </sentence>
+        </sentences>
+    </Review>
+	<Review rid="73821_17">
+        <sentences>
+            <sentence id="73821_17#0">
+                <text>Nice hotel, nice location for the valley</text>
+                <Opinions>
+                    <Opinion target="location" category="LOCATION#GENERAL" polarity="positive" from="17" to="25"/>
+                    <Opinion target="hotel" category="HOTEL#GENERAL" polarity="positive" from="5" to="10"/>
+                </Opinions>
+            </sentence>
+            <sentence id="73821_17#1">
+                <text>I stayed here for spring training this last weekend.</text>
+            </sentence>
+            <sentence id="73821_17#2" OutOfScope="TRUE">
+                <text>I got a great deal of 120 USD for 2 nights from priceline.</text>
+            </sentence>
+            <sentence id="73821_17#3">
+                <text>I really liked the hotel, it was very clean, the staff were fantastic and the rooms were great.</text>
+                <Opinions>
+                    <Opinion target="hotel" category="HOTEL#GENERAL" polarity="positive" from="19" to="24"/>
+                    <Opinion target="hotel" category="HOTEL#CLEANLINESS" polarity="positive" from="19" to="24"/>
+                    <Opinion target="staff" category="SERVICE#GENERAL" polarity="positive" from="49" to="54"/>
+                    <Opinion target="rooms" category="ROOMS#GENERAL" polarity="positive" from="78" to="83"/>
+                </Opinions>
+            </sentence>
+            <sentence id="73821_17#4">
+                <text>I cant complain about this hotel stay.</text>
+                <Opinions>
+                    <Opinion target="hotel" category="HOTEL#GENERAL" polarity="positive" from="27" to="32"/>
+                </Opinions>
+            </sentence>
+            <sentence id="73821_17#5">
+                <text>the location is in the central valley so getting to anywhere is easy with the easy access to the local freeways.</text>
+                <Opinions>
+                    <Opinion target="location" category="LOCATION#GENERAL" polarity="positive" from="4" to="12"/>
+                </Opinions>
+            </sentence>
+            <sentence id="73821_17#6">
+                <text>the only drawback was that the pool area this time of year didnt seem to get much sun during the day, but the water is heated so it didnt matter too much.</text>
+                <Opinions>
+                    <Opinion target="pool area" category="FACILITIES#DESIGN_FEATURES" polarity="negative" from="31" to="40"/>
+                    <Opinion target="pool" category="FACILITIES#DESIGN_FEATURES" polarity="positive" from="31" to="35"/>
+                    <Opinion target="pool" category="FACILITIES#COMFORT" polarity="positive" from="31" to="35"/>
+                </Opinions>
+            </sentence>
+            <sentence id="73821_17#7">
+                <text>I would absolutely stay here again!!</text>
+                <Opinions>
+                    <Opinion target="NULL" category="HOTEL#GENERAL" polarity="positive" from="0" to="0"/>
+                </Opinions>
+            </sentence>
+        </sentences>
+    </Review>
+	<Review rid="73821_24">
+        <sentences>
+            <sentence id="73821_24#0">
+                <text>I didn't expect much, but...</text>
+            </sentence>
+            <sentence id="73821_24#1">
+                <text>I was pleasantly surprised.</text>
+                <Opinions>
+                    <Opinion target="NULL" category="HOTEL#GENERAL" polarity="positive" from="0" to="0"/>
+                </Opinions>
+            </sentence>
+            <sentence id="73821_24#2">
+                <text>My flight was delayed so I was put up in this hotel.</text>
+            </sentence>
+            <sentence id="73821_24#3">
+                <text>I expected it to be a dingy motel, but to my surprise, the rooms were clean and even a little spacious.</text>
+                <Opinions>
+                    <Opinion target="rooms" category="ROOMS#CLEANLINESS" polarity="positive" from="59" to="64"/>
+                    <Opinion target="rooms" category="ROOMS#DESIGN_FEATURES" polarity="positive" from="59" to="64"/>
+                    <Opinion target="rooms" category="ROOMS#COMFORT" polarity="positive" from="59" to="64"/>
+                </Opinions>
+            </sentence>
+            <sentence id="73821_24#4" OutOfScope="TRUE">
+                <text>Obviously it wasn't the Ritz Carlton, but I can't say how relieving it is to come to a clean, comfortable room after a ten hour stay in an airport terminal.</text>
+            </sentence>
+            <sentence id="73821_24#5">
+                <text>The continental breakfast was excellent.</text>
+                <Opinions>
+                    <Opinion target="continental breakfast" category="FOOD_DRINKS#QUALITY" polarity="positive" from="4" to="25"/>
+                </Opinions>
+            </sentence>
+            <sentence id="73821_24#6">
+                <text>If all you want is a clean place to stay without the frills, and especially if you're a business traveler, stay here.</text>
+                <Opinions>
+                    <Opinion target="place" category="HOTEL#CLEANLINESS" polarity="positive" from="27" to="32"/>
+                    <Opinion target="place" category="HOTEL#DESIGN_FEATURES" polarity="neutral" from="27" to="32"/>
+                    <Opinion target="place" category="HOTEL#MISCELLANEOUS" polarity="positive" from="27" to="32"/>
+                </Opinions>
+            </sentence>
+            <sentence id="73821_24#7">
+                <text>They seem to have businesspeople in mind.</text>
+               <Opinions>
+                    <Opinion target="NULL" category="HOTEL#MISCELLANEOUS" polarity="positive" from="0" to="0"/>
+                </Opinions>
+            </sentence>
+        </sentences>
+    </Review>
+	<Review rid="73739_3">
+        <sentences>
+            <sentence id="73739_3#0">
+                <text>Loved this hotel overall</text>
+                <Opinions>
+                    <Opinion target="hotel" category="HOTEL#GENERAL" polarity="positive" from="11" to="16"/>
+                </Opinions>
+            </sentence>
+            <sentence id="73739_3#1">
+                <text>We loved this hotel.</text>
+                <Opinions>
+                    <Opinion target="hotel" category="HOTEL#GENERAL" polarity="positive" from="14" to="19"/>
+                </Opinions>
+            </sentence>
+            <sentence id="73739_3#2">
+                <text>We stayed there the day we flew in and then the night before we flew out.</text>
+            </sentence>
+            <sentence id="73739_3#3">
+                <text>It was close to the airport.</text>
+                <Opinions>
+                    <Opinion target="NULL" category="LOCATION#GENERAL" polarity="positive" from="0" to="0"/>
+                </Opinions>
+            </sentence>
+            <sentence id="73739_3#4">
+                <text>The hotel staff was very friendly, the rooms were very clean, both times.</text>
+                <Opinions>
+                    <Opinion target="hotel staff" category="SERVICE#GENERAL" polarity="positive" from="4" to="15"/>
+                    <Opinion target="rooms" category="ROOMS#CLEANLINESS" polarity="positive" from="39" to="44"/>
+                </Opinions>
+            </sentence>
+            <sentence id="73739_3#5">
+                <text>The rooms were quiet.</text>
+				<Opinions>
+                    <Opinion target="rooms" category="ROOMS#COMFORT" polarity="positive" from="4" to="9"/>
+                </Opinions>
+            </sentence>
+            <sentence id="73739_3#6">
+                <text>The pool was great and quiet both times, loved the lighted palm trees at night.</text>
+                <Opinions>
+                    <Opinion target="pool" category="FACILITIES#GENERAL" polarity="positive" from="4" to="8"/>
+                    <Opinion target="pool" category="FACILITIES#COMFORT" polarity="positive" from="4" to="8"/>
+                    <Opinion target="pool" category="FACILITIES#DESIGN_FEATURES" polarity="positive" from="4" to="8"/>
+                </Opinions>
+            </sentence>
+            <sentence id="73739_3#7">
+                <text>The breakfast buffet was unbelievable, everything you could imagine and a wonderful lady taking care of it.</text>
+                <Opinions>
+                    <Opinion target="breakfast buffet" category="FOOD_DRINKS#STYLE_OPTIONS" polarity="positive" from="4" to="20"/>
+                    <Opinion target="lady" category="SERVICE#GENERAL" polarity="positive" from="84" to="88"/>
+                </Opinions>
+            </sentence>
+            <sentence id="73739_3#8">
+                <text>The 2nd night we stayed there we had a king jacuzzi suite.</text>
+            </sentence>
+            <sentence id="73739_3#9">
+                <text>Awesome suite, 2 bathrooms, sinks and showers seperated by french doors.</text>
+                <Opinions>
+                    <Opinion target="suite" category="ROOMS#GENERAL" polarity="positive" from="8" to="13"/>
+                    <Opinion target="suite" category="ROOMS#DESIGN_FEATURES" polarity="positive" from="8" to="13"/>
+                </Opinions>
+            </sentence>
+            <sentence id="73739_3#10">
+                <text>Also 2 flat sceen tvs and lots of space in each room.</text>
+                <Opinions>
+                    <Opinion target="room" category="ROOMS#DESIGN_FEATURES" polarity="positive" from="48" to="52"/>
+                </Opinions>
+            </sentence>
+            <sentence id="73739_3#11">
+                <text>The only complaint I had is that our suite smelled like smoke and it was a non smoking suite.</text>
+                <Opinions>
+                    <Opinion target="suite" category="ROOMS#MISCELLANEOUS" polarity="negative" from="37" to="42"/>
+                </Opinions>
+            </sentence>
+            <sentence id="73739_3#12">
+                <text>We turned on both air conditioners to get rid of the smell and it wouldn't go away.</text>
+				<Opinions>
+                    <Opinion target="NULL" category="ROOMS#MISCELLANEOUS" polarity="negative" from="0" to="0"/>
+                </Opinions>
+            </sentence>
+            <sentence id="73739_3#13">
+                <text>I would highly recommend the hotel, great location, great service, good value.</text>
+                <Opinions>
+                    <Opinion target="location" category="LOCATION#GENERAL" polarity="positive" from="42" to="50"/>
+                    <Opinion target="service" category="SERVICE#GENERAL" polarity="positive" from="58" to="65"/>
+                    <Opinion target="hotel" category="HOTEL#GENERAL" polarity="positive" from="29" to="34"/>
+                    <Opinion target="hotel" category="HOTEL#PRICES" polarity="positive" from="29" to="34"/>
+                </Opinions>
+            </sentence>
+        </sentences>
+    </Review>	
+	<Review rid="73718_9">
+        <sentences>
+            <sentence id="73718_9#0">
+                <text>Convienient Comfortable business travel Hotel</text>
+                <Opinions>
+                    <Opinion target="Hotel" category="HOTEL#COMFORT" polarity="positive" from="40" to="45"/>
+                    <Opinion target="Hotel" category="HOTEL#MISCELLANEOUS" polarity="positive" from="40" to="45"/>
+                </Opinions>
+            </sentence>
+            <sentence id="73718_9#1">
+                <text>This was my third stay in two months and I have noticed a continuing trend of upgrades and service.</text>
+                <Opinions>
+                    <Opinion target="NULL" category="HOTEL#GENERAL" polarity="positive" from="0" to="0"/>
+                    <Opinion target="service" category="SERVICE#GENERAL" polarity="positive" from="91" to="98"/>
+                </Opinions>
+            </sentence>
+            <sentence id="73718_9#2">
+                <text>Understand the property is under new management and it really shows.</text>
+                <Opinions>
+                    <Opinion target="property" category="HOTEL#MISCELLANEOUS" polarity="positive" from="15" to="23"/>
+                </Opinions>
+            </sentence>
+            <sentence id="73718_9#3" OutOfScope="TRUE">
+                <text>Prices are competitive especially against the downtown megaprops who charge you for standing still in one spot too long.</text>
+            </sentence>
+            <sentence id="73718_9#4" OutOfScope="TRUE">
+                <text>Nice little bar and restaurant on site and easy walking distance to trendy bistros (Portland's a really nice hip restaurant is immediately next door.)</text>
+            </sentence>
+            <sentence id="73718_9#5">
+                <text>Recommend this highly for the seasoned Pheonix road warrior or warriorette.</text>
+                <Opinions>
+                    <Opinion target="NULL" category="HOTEL#GENERAL" polarity="positive" from="0" to="0"/>
+                </Opinions>
+            </sentence>
+        </sentences>
+    </Review>
+	<Review rid="73727_12">
+        <sentences>
+            <sentence id="73727_12#0">
+                <text>Clean, decent hotel</text>
+                <Opinions>
+                    <Opinion target="hotel" category="HOTEL#CLEANLINESS" polarity="positive" from="14" to="19"/>
+                    <Opinion target="hotel" category="HOTEL#GENERAL" polarity="neutral" from="14" to="19"/>
+                </Opinions>
+            </sentence>
+            <sentence id="73727_12#1">
+                <text>Stayed at this hotel 1/20-1/21 to attend a conference.</text>
+            </sentence>
+            <sentence id="73727_12#2">
+                <text>The hotel was clean, rooms were large and comfortable, nothing fancy.</text>
+                <Opinions>
+                    <Opinion target="hotel" category="HOTEL#CLEANLINESS" polarity="positive" from="4" to="9"/>
+                    <Opinion target="rooms" category="ROOMS#DESIGN_FEATURES" polarity="positive" from="21" to="26"/>
+                    <Opinion target="rooms" category="ROOMS#COMFORT" polarity="positive" from="21" to="26"/>
+                </Opinions>
+            </sentence>
+            <sentence id="73727_12#3">
+                <text>No noise, though hotel was half empty I'm extremely sensitive to noise at hotels and was not disturbed both evenings or in the mornings.</text>
+                <Opinions>
+                    <Opinion target="hotel" category="HOTEL#COMFORT" polarity="positive" from="17" to="22"/>
+                </Opinions>
+            </sentence>
+            <sentence id="73727_12#4">
+                <text>Is an older building but appeared to be well maintained.</text>
+				<Opinions>
+                    <Opinion target="building" category="HOTEL#QUALITY" polarity="positive" from="12" to="20"/>
+                </Opinions>
+            </sentence>
+            <sentence id="73727_12#5">
+                <text>Interior corridors clean and well lit.</text>
+                <Opinions>
+                    <Opinion target="Interior corridors" category="HOTEL#CLEANLINESS" polarity="positive" from="0" to="18"/>
+                    <Opinion target="Interior corridors" category="HOTEL#DESIGN_FEATURES" polarity="positive" from="0" to="18"/>
+                </Opinions>
+            </sentence>
+            <sentence id="73727_12#6">
+                <text>Exterior grounds well kept.</text>
+                <Opinions>
+                    <Opinion target="Exterior grounds" category="HOTEL#QUALITY" polarity="positive" from="0" to="16"/>
+                </Opinions>
+            </sentence>
+            <sentence id="73727_12#7">
+                <text>Has elevators on both sides of the building.</text>
+				<Opinions>
+                    <Opinion target="building" category="HOTEL#DESIGN_FEATURES" polarity="positive" from="35" to="43"/>
+                </Opinions>
+            </sentence>
+            <sentence id="73727_12#8">
+                <text>Has a nice pool and very hot jaquizzi , was clean.</text>
+                <Opinions>
+                    <Opinion target="pool" category="FACILITIES#GENERAL" polarity="positive" from="11" to="15"/>
+                    <Opinion target="jaquizzi" category="FACILITIES#DESIGN_FEATURES" polarity="positive" from="29" to="37"/>
+                    <Opinion target="NULL" category="HOTEL#CLEANLINESS" polarity="positive" from="0" to="0"/>
+                </Opinions>
+            </sentence>
+            <sentence id="73727_12#9">
+                <text>The pool was well heated so swimming was possible in the winter climate, even at night.</text>
+                <Opinions>
+                    <Opinion target="pool" category="FACILITIES#DESIGN_FEATURES" polarity="positive" from="4" to="8"/>
+                    <Opinion target="pool" category="FACILITIES#COMFORT" polarity="positive" from="4" to="8"/>
+                </Opinions>
+            </sentence>
+            <sentence id="73727_12#10">
+                <text>Hotel provides free pass to Golds Gym, a five minute walk from front door.</text>
+				<Opinions>
+                    <Opinion target="Hotel" category="HOTEL#MISCELLANEOUS" polarity="positive" from="0" to="5"/>
+                </Opinions>
+            </sentence>
+            <sentence id="73727_12#11">
+                <text>Staff was freindly and professional for the most part.</text>
+                <Opinions>
+                    <Opinion target="Staff" category="SERVICE#GENERAL" polarity="positive" from="0" to="5"/>
+                </Opinions>
+            </sentence>
+            <sentence id="73727_12#12">
+                <text>Has good airport shuttle, ten minutes unless heavy traffic, then at worst 20 minutes.</text>
+                <Opinions>
+                    <Opinion target="airport shuttle" category="FACILITIES#GENERAL" polarity="positive" from="9" to="24"/>
+                </Opinions>
+            </sentence>
+            <sentence id="73727_12#13">
+                <text>Its convienently located in southeast phoenix, right next to Tempe.</text>
+                <Opinions>
+                    <Opinion target="NULL" category="LOCATION#GENERAL" polarity="positive" from="0" to="0"/>
+                </Opinions>
+            </sentence>
+            <sentence id="73727_12#14">
+                <text>Nice neghborhood, safe.</text>
+                <Opinions>
+                    <Opinion target="neghborhood" category="LOCATION#GENERAL" polarity="positive" from="5" to="16"/>
+                </Opinions>
+            </sentence>
+            <sentence id="73727_12#15">
+                <text>Would stay again.</text>
+                <Opinions>
+                    <Opinion target="NULL" category="HOTEL#GENERAL" polarity="positive" from="0" to="0"/>
+                </Opinions>
+            </sentence>
+            <sentence id="73727_12#16">
+                <text>Good conference facilities too, set up well.</text>
+                <Opinions>
+                    <Opinion target="conference facilities" category="FACILITIES#GENERAL" polarity="positive" from="5" to="26"/>
+                </Opinions>
+            </sentence>
+        </sentences>
+    </Review>
+	<Review rid="73727_16">
+        <sentences>
+            <sentence id="73727_16#0">
+                <text>"best" Best Western</text>
+                <Opinions>
+                    <Opinion target="Best Western" category="HOTEL#GENERAL" polarity="positive" from="7" to="19"/>
+                </Opinions>
+            </sentence>
+            <sentence id="73727_16#1">
+                <text>This hotel is the best Best Western I have stayed in.</text>
+                <Opinions>
+                    <Opinion target="Best Western" category="HOTEL#GENERAL" polarity="positive" from="23" to="35"/>
+                </Opinions>
+            </sentence>
+            <sentence id="73727_16#2">
+                <text>Not especially attractive outside or surrounding area but convenient location and walk to small strip malls c eateries.</text>
+                <Opinions>
+                    <Opinion target="outside" category="HOTEL#DESIGN_FEATURES" polarity="negative" from="26" to="33"/>
+                    <Opinion target="surrounding area" category="LOCATION#GENERAL" polarity="negative" from="37" to="53"/>
+                    <Opinion target="location" category="LOCATION#GENERAL" polarity="positive" from="69" to="77"/>
+                </Opinions>
+            </sentence>
+            <sentence id="73727_16#3">
+                <text>Inside hotel is cool and southwestern.</text>
+                <Opinions>
+                    <Opinion target="hotel" category="HOTEL#GENERAL" polarity="positive" from="7" to="12"/>
+                    <Opinion target="hotel" category="HOTEL#DESIGN_FEATURES" polarity="neutral" from="7" to="12"/>
+                </Opinions>
+            </sentence>
+            <sentence id="73727_16#4">
+                <text>Hotel desk staff was friendly.</text>
+                <Opinions>
+                    <Opinion target="Hotel desk staff" category="SERVICE#GENERAL" polarity="positive" from="0" to="16"/>
+                </Opinions>
+            </sentence>
+            <sentence id="73727_16#5">
+                <text>There is a complimentary shuttle that goes anywhere in 5 mi area, including airport, and runs early am until about 10 pm.</text>
+				<Opinions>
+                    <Opinion target="shuttle" category="FACILITIES#PRICES" polarity="positive" from="25" to="32"/>
+                    <Opinion target="shuttle" category="FACILITIES#MISCELLANEOUS" polarity="positive" from="25" to="32"/>
+                </Opinions>
+            </sentence>
+            <sentence id="73727_16#6">
+                <text>Free high speed internet.</text>
+				<Opinions>
+                    <Opinion target="internet" category="FACILITIES#QUALITY" polarity="positive" from="16" to="24"/>
+                    <Opinion target="internet" category="FACILITIES#PRICES" polarity="positive" from="16" to="24"/>
+                </Opinions>
+            </sentence>
+            <sentence id="73727_16#7">
+                <text>Very comfortable room.</text>
+                <Opinions>
+                    <Opinion target="room" category="ROOMS#COMFORT" polarity="positive" from="17" to="21"/>
+                </Opinions>
+            </sentence>
+            <sentence id="73727_16#8">
+                <text>Pool area clean but not very attractive.</text>
+                <Opinions>
+                    <Opinion target="Pool area" category="FACILITIES#CLEANLINESS" polarity="positive" from="0" to="9"/>
+                    <Opinion target="Pool area" category="FACILITIES#DESIGN_FEATURES" polarity="negative" from="0" to="9"/>
+                </Opinions>
+            </sentence>
+            <sentence id="73727_16#9">
+                <text>Two dificulties I had were: One, the restaurant service was terrible!</text>
+                <Opinions>
+                    <Opinion target="restaurant service" category="SERVICE#GENERAL" polarity="negative" from="37" to="55"/>
+                </Opinions>
+            </sentence>
+            <sentence id="73727_16#10">
+                <text>It opens at 6 am which was great for the sightseeing tours and my breakfasts were all free, but once had to finally open the kitchen door and ask to be seated.</text>
+				<Opinions>
+                    <Opinion target="NULL" category="FACILITIES#MISCELLANEOUS" polarity="positive" from="0" to="0"/>
+                    <Opinion target="breakfasts" category="FOOD_DRINKS#PRICES" polarity="positive" from="66" to="76"/>
+                    <Opinion target="NULL" category="SERVICE#GENERAL" polarity="negative" from="0" to="0"/>
+                </Opinions>
+            </sentence>
+            <sentence id="73727_16#11">
+                <text>Then wait to give order, then wait for the food.</text>
+				<Opinions>
+                    <Opinion target="NULL" category="SERVICE#GENERAL" polarity="negative" from="0" to="0"/>
+                </Opinions>
+            </sentence>
+            <sentence id="73727_16#12">
+                <text>The food selection was pretty good.</text>
+                <Opinions>
+                    <Opinion target="food selection" category="FOOD_DRINKS#STYLE_OPTIONS" polarity="positive" from="4" to="18"/>
+                </Opinions>
+            </sentence>
+            <sentence id="73727_16#13">
+                <text>One time the employee stopped to pick up dirty plates as he led me to my seat!</text>
+				<Opinions>
+                    <Opinion target="employee" category="SERVICE#GENERAL" polarity="negative" from="13" to="21"/>
+                </Opinions>
+            </sentence>
+            <sentence id="73727_16#14">
+                <text>The other problem was the hotel manager - a young woman apparently somewhat new at her job.</text>
+                <Opinions>
+                    <Opinion target="hotel manager" category="SERVICE#GENERAL" polarity="negative" from="26" to="39"/>
+                </Opinions>
+            </sentence>
+            <sentence id="73727_16#15">
+                <text>She tried to refuse my gold crown club points as payment for my stay.</text>
+				<Opinions>
+                    <Opinion target="NULL" category="SERVICE#GENERAL" polarity="negative" from="0" to="0"/>
+                </Opinions>
+            </sentence>
+            <sentence id="73727_16#16">
+                <text>When I was persistent, she made a phone call and I heard her say well, i never heard of that.</text>
+				<Opinions>
+                    <Opinion target="NULL" category="SERVICE#GENERAL" polarity="negative" from="0" to="0"/>
+                </Opinions>
+            </sentence>
+            <sentence id="73727_16#17">
+                <text>Then she credited me for my points.</text>
+            </sentence>
+            <sentence id="73727_16#18">
+                <text>I would definitely stay here again when in the Phoenix area!</text>
+                <Opinions>
+                    <Opinion target="NULL" category="HOTEL#GENERAL" polarity="positive" from="0" to="0"/>
+                </Opinions>
+            </sentence>
+        </sentences>
+    </Review>
+	<Review rid="73739_12">
+        <sentences>
+            <sentence id="73739_12#0">
+                <text>Good motel, Poor location</text>
+                <Opinions>
+                    <Opinion target="motel" category="HOTEL#GENERAL" polarity="positive" from="5" to="10"/>
+                    <Opinion target="location" category="LOCATION#GENERAL" polarity="negative" from="17" to="25"/>
+                </Opinions>
+            </sentence>
+            <sentence id="73739_12#1">
+                <text>We stayed at this hotel for four nights.</text>
+            </sentence>
+            <sentence id="73739_12#2">
+                <text>My overall sense is that this was a good motel, comparatively inexpensive.</text>
+                <Opinions>
+                    <Opinion target="motel" category="HOTEL#GENERAL" polarity="positive" from="41" to="46"/>
+                    <Opinion target="motel" category="HOTEL#PRICES" polarity="positive" from="41" to="46"/>
+                </Opinions>
+            </sentence>
+            <sentence id="73739_12#3">
+                <text>Pros:</text>
+            </sentence>
+            <sentence id="73739_12#4">
+                <text>- Comparatively inexpensive</text>
+                <Opinions>
+                    <Opinion target="NULL" category="HOTEL#PRICES" polarity="positive" from="0" to="0"/>
+                </Opinions>
+            </sentence>
+            <sentence id="73739_12#5">
+                <text>- Microwave, refrigerator, coffee maker in room</text>
+				<Opinions>
+                    <Opinion target="room" category="ROOMS#DESIGN_FEATURES" polarity="positive" from="43" to="47"/>
+                </Opinions>
+            </sentence>
+            <sentence id="73739_12#6">
+                <text>- Decent (but repetitive) breakfast included in price (wafles, scrambled eggs, cereal, etc.)</text>
+                <Opinions>
+                    <Opinion target="breakfast" category="FOOD_DRINKS#QUALITY" polarity="neutral" from="26" to="35"/>
+                    <Opinion target="breakfast" category="FOOD_DRINKS#STYLE_OPTIONS" polarity="negative" from="26" to="35"/>
+                    <Opinion target="breakfast" category="FOOD_DRINKS#PRICES" polarity="positive" from="26" to="35"/>
+                </Opinions>
+            </sentence>
+            <sentence id="73739_12#7">
+                <text>- Free internet access (including printing) from lobby</text>
+                <Opinions>
+                    <Opinion target="internet access" category="FACILITIES#PRICES" polarity="positive" from="7" to="22"/>
+                    <Opinion target="printing" category="FACILITIES#PRICES" polarity="positive" from="34" to="42"/>
+                </Opinions>
+            </sentence>
+            <sentence id="73739_12#8">
+                <text>- Nice staff</text>
+				<Opinions>
+                    <Opinion target="staff" category="SERVICE#GENERAL" polarity="positive" from="7" to="12"/>
+                </Opinions>
+            </sentence>
+            <sentence id="73739_12#9">
+                <text>Cons:</text>
+            </sentence>
+            <sentence id="73739_12#10">
+                <text>- Average room size.</text>
+                <Opinions>
+                    <Opinion target="room" category="ROOMS#DESIGN_FEATURES" polarity="neutral" from="10" to="14"/>
+                </Opinions>
+            </sentence>
+            <sentence id="73739_12#11">
+                <text>- Very limited space to hang clothes</text>
+                <Opinions>
+                    <Opinion target="space" category="ROOMS#DESIGN_FEATURES" polarity="negative" from="15" to="20"/>
+                </Opinions>
+            </sentence>
+            <sentence id="73739_12#12">
+                <text>My biggest problem was the location.</text>
+                <Opinions>
+                    <Opinion target="location" category="LOCATION#GENERAL" polarity="negative" from="27" to="35"/>
+                </Opinions>
+            </sentence>
+            <sentence id="73739_12#13">
+                <text>It was far away from all the sites I wanted to see.</text>
+                <Opinions>
+                    <Opinion target="NULL" category="LOCATION#GENERAL" polarity="negative" from="0" to="0"/>
+                </Opinions>
+            </sentence>
+            <sentence id="73739_12#14">
+                <text>M.</text>
+            </sentence>
+        </sentences>
+    </Review>
+	<Review rid="73821_13">
+        <sentences>
+            <sentence id="73821_13#0">
+                <text>Great airport location</text>
+                <Opinions>
+                    <Opinion target="location" category="LOCATION#GENERAL" polarity="positive" from="14" to="22"/>
+                </Opinions>
+            </sentence>
+            <sentence id="73821_13#1">
+                <text>I stayed 1 night at the Hilton near the Phoenix airport.</text>
+            </sentence>
+            <sentence id="73821_13#2">
+                <text>It was very quiet considering being so close to the airport.</text>
+                <Opinions>
+                    <Opinion target="NULL" category="HOTEL#COMFORT" polarity="positive" from="0" to="0"/>
+                </Opinions>
+            </sentence>
+            <sentence id="73821_13#3">
+                <text>Very clean and comfortable room, helpful and friendly staff.</text>
+                <Opinions>
+                    <Opinion target="room" category="ROOMS#CLEANLINESS" polarity="positive" from="27" to="31"/>
+                    <Opinion target="room" category="ROOMS#COMFORT" polarity="positive" from="27" to="31"/>
+                    <Opinion target="staff" category="SERVICE#GENERAL" polarity="positive" from="54" to="59"/>
+                </Opinions>
+            </sentence>
+            <sentence id="73821_13#4">
+                <text>The food in the Bar and Grille was just ok.</text>
+                <Opinions>
+                    <Opinion target="food" category="FOOD_DRINKS#QUALITY" polarity="neutral" from="4" to="8"/>
+                </Opinions>
+            </sentence>
+            <sentence id="73821_13#5">
+                <text>There is a charge for internet access in the room but it works great.</text>
+                <Opinions>
+                    <Opinion target="internet access" category="ROOMS_AMENITIES#PRICES" polarity="negative" from="22" to="37"/>
+                    <Opinion target="internet access" category="ROOMS_AMENITIES#QUALITY" polarity="positive" from="22" to="37"/>
+                </Opinions>
+            </sentence>
+            <sentence id="73821_13#6">
+                <text>You can print boarding passes at a kiosk near the front desk but it can be busy first thing in the morning so you might want to do it the day before.</text>
+				<Opinions>
+                    <Opinion target="kiosk" category="FACILITIES#MISCELLANEOUS" polarity="neutral" from="35" to="40"/>
+                </Opinions>
+            </sentence>
+            <sentence id="73821_13#7">
+                <text>I left on the 7:00am shuttle and the ride to the airport was quick and hassle-free.</text>
+                <Opinions>
+                    <Opinion target="shuttle" category="FACILITIES#GENERAL" polarity="positive" from="21" to="28"/>
+                </Opinions>
+            </sentence>
+        </sentences>
+    </Review>	
+	<Review rid="73821_14">
+        <sentences>
+            <sentence id="73821_14#0">
+                <text>Excellent!</text>
+                <Opinions>
+                    <Opinion target="NULL" category="HOTEL#GENERAL" polarity="positive" from="0" to="0"/>
+                </Opinions>
+            </sentence>
+            <sentence id="73821_14#1">
+                <text>Wow! What a great hotel!</text>
+                <Opinions>
+                    <Opinion target="hotel" category="HOTEL#GENERAL" polarity="positive" from="18" to="23"/>
+                </Opinions>
+            </sentence>
+            <sentence id="73821_14#2">
+                <text>Rooms were clean, easy accessible.</text>
+                <Opinions>
+                    <Opinion target="Rooms" category="ROOMS#CLEANLINESS" polarity="positive" from="0" to="5"/>
+                    <Opinion target="Rooms" category="ROOMS#COMFORT" polarity="positive" from="0" to="5"/>
+                </Opinions>
+            </sentence>
+            <sentence id="73821_14#3">
+                <text>Beds were so comfortable!</text>
+                <Opinions>
+                    <Opinion target="Beds" category="ROOMS#COMFORT" polarity="positive" from="0" to="4"/>
+                </Opinions>
+            </sentence>
+            <sentence id="73821_14#4">
+                <text>Staff was friendly.</text>
+                <Opinions>
+                    <Opinion target="Staff" category="SERVICE#GENERAL" polarity="positive" from="0" to="5"/>
+                </Opinions>
+            </sentence>
+            <sentence id="73821_14#5">
+                <text>Pool was heated, had a great atmosphere with unlimited bottled water available while swimming/laying out.</text>
+                <Opinions>
+                    <Opinion target="Pool" category="FACILITIES#DESIGN_FEATURES" polarity="positive" from="0" to="4"/>
+                </Opinions>
+            </sentence>
+            <sentence id="73821_14#6">
+                <text>Offered food and drink service at the pool.</text>
+				<Opinions>
+                    <Opinion target="pool" category="FACILITIES#DESIGN_FEATURES" polarity="positive" from="38" to="42"/>
+                </Opinions>
+            </sentence>
+            <sentence id="73821_14#7">
+                <text>Room service was great!</text>
+                <Opinions>
+                    <Opinion target="Room service" category="SERVICE#GENERAL" polarity="positive" from="0" to="12"/>
+                </Opinions>
+            </sentence>
+            <sentence id="73821_14#8">
+                <text>Prompt delivery and wonderful food.</text>
+                <Opinions>
+                    <Opinion target="food" category="FOOD_DRINKS#QUALITY" polarity="positive" from="30" to="34"/>
+                    <Opinion target="delivery" category="SERVICE#GENERAL" polarity="positive" from="7" to="15"/>
+                </Opinions>
+            </sentence>
+            <sentence id="73821_14#9">
+                <text>I had the southwestern ceasar - it was one of the best salads I've ever had!</text>
+                <Opinions>
+                    <Opinion target="southwestern ceasar" category="FOOD_DRINKS#QUALITY" polarity="positive" from="10" to="29"/>
+                </Opinions>
+            </sentence>
+            <sentence id="73821_14#10">
+                <text>I was very impressed and would come back to the HIlton Phoenix Airport again!</text>
+                <Opinions>
+                    <Opinion target="HIlton Phoenix Airport" category="HOTEL#GENERAL" polarity="positive" from="48" to="70"/>
+                </Opinions>
+            </sentence>
+        </sentences>
+    </Review>
+	<Review rid="73718_23">
+        <sentences>
+            <sentence id="73718_23#0">
+                <text>DO NOT STAY HERE</text>
+                <Opinions>
+                    <Opinion target="NULL" category="HOTEL#GENERAL" polarity="negative" from="0" to="0"/>
+                </Opinions>
+            </sentence>
+            <sentence id="73718_23#1">
+                <text>My family had 5 rooms at this hotel for one night.</text>
+            </sentence>
+            <sentence id="73718_23#2">
+                <text>One room was on one floor, 3 were on another, and the last was way up top.</text>
+            </sentence>
+            <sentence id="73718_23#3">
+                <text>Being way spread out would have been OK until we got to the rooms.</text>
+            </sentence>
+            <sentence id="73718_23#4">
+                <text>All 4 lower rooms were 80 degrees and above.</text>
+                <Opinions>
+                    <Opinion target="rooms" category="ROOMS#COMFORT" polarity="negative" from="12" to="17"/>
+                </Opinions>
+            </sentence>
+            <sentence id="73718_23#5">
+                <text>We were assured that the rooms would be cool by the time we got back from our concert.</text>
+            </sentence>
+            <sentence id="73718_23#6">
+                <text>After the concert we had to change 4 of the rooms twice trying to find cooler floors.</text>
+				<Opinions>
+                    <Opinion target="rooms" category="ROOMS#COMFORT" polarity="negative" from="44" to="49"/>
+                </Opinions>
+            </sentence>
+            <sentence id="73718_23#7">
+                <text>We finally gave up at 12:30 a.m. with a room that was 77 degrees - still too warm.</text>
+                <Opinions>
+                    <Opinion target="room" category="ROOMS#COMFORT" polarity="negative" from="40" to="44"/>
+                </Opinions>
+            </sentence>
+            <sentence id="73718_23#8">
+                <text>And the room did not even have a shower curtain!</text>
+                <Opinions>
+                    <Opinion target="room" category="ROOMS#DESIGN_FEATURES" polarity="negative" from="8" to="12"/>
+                </Opinions>
+            </sentence>
+            <sentence id="73718_23#9">
+                <text>I understand they are going through renovations, but they need to either do it floor by floor and close that floor or close the entire hotel until finished.</text>
+				<Opinions>
+                    <Opinion target="hotel" category="HOTEL#MISCELLANEOUS" polarity="negative" from="135" to="140"/>
+                </Opinions>
+            </sentence>
+            <sentence id="73718_23#10">
+                <text>The only nice thing was the free shuttle to America West Arena.</text>
+                <Opinions>
+                    <Opinion target="shuttle" category="FACILITIES#PRICES" polarity="positive" from="33" to="40"/>
+                    <Opinion target="NULL" category="HOTEL#GENERAL" polarity="negative" from="0" to="0"/>
+                </Opinions>
+            </sentence>
+        </sentences>
+    </Review>
+	<Review rid="73718_16">
+        <sentences>
+            <sentence id="73718_16#0">
+                <text>Very disappointing</text>
+                <Opinions>
+                    <Opinion target="NULL" category="HOTEL#GENERAL" polarity="negative" from="0" to="0"/>
+                </Opinions>
+            </sentence>
+            <sentence id="73718_16#1">
+                <text>Lots of services promised and not provided.</text>
+                <Opinions>
+                    <Opinion target="services" category="FACILITIES#GENERAL" polarity="negative" from="8" to="16"/>
+                </Opinions>
+            </sentence>
+            <sentence id="73718_16#2">
+                <text>The shuttle wasn't running, and the restaurant was closed down - both of those explained to me with because business is low right now around the holidays.</text>
+                <Opinions>
+                    <Opinion target="shuttle" category="FACILITIES#GENERAL" polarity="negative" from="4" to="11"/>
+                    <Opinion target="restaurant" category="FACILITIES#GENERAL" polarity="negative" from="36" to="46"/>
+                </Opinions>
+            </sentence>
+            <sentence id="73718_16#3">
+                <text>So I guess you should make sure it's going to be busy when you go!</text>
+            </sentence>
+            <sentence id="73718_16#4">
+                <text>The business center has been taken apart - the front desk staff did not know if it was going to be back, since they had no idea it had been taken apart and were quite shocked to find out, when they tried to let me in to use it.</text>
+                <Opinions>
+                    <Opinion target="business center" category="FACILITIES#GENERAL" polarity="negative" from="4" to="19"/>
+                    <Opinion target="front desk staff" category="SERVICE#GENERAL" polarity="negative" from="47" to="63"/>
+                </Opinions>
+            </sentence>
+            <sentence id="73718_16#5">
+                <text>Vending machines were out of everything except in the lobby.</text>
+                <Opinions>
+                    <Opinion target="Vending machines" category="FACILITIES#GENERAL" polarity="negative" from="0" to="16"/>
+                </Opinions>
+            </sentence>
+            <sentence id="73718_16#6">
+                <text>Staff was very friendly and a bit embarrassed about everything that wasn't available.</text>
+                <Opinions>
+                    <Opinion target="Staff" category="SERVICE#GENERAL" polarity="positive" from="0" to="5"/>
+                </Opinions>
+            </sentence>
+            <sentence id="73718_16#7">
+                <text>The room itself was fine.</text>
+                <Opinions>
+                    <Opinion target="room" category="ROOMS#GENERAL" polarity="positive" from="4" to="8"/>
+                </Opinions>
+            </sentence>
+        </sentences>
+    </Review>
+	<Review rid="73727_6">
+        <sentences>
+            <sentence id="73727_6#0">
+                <text>Pay extra and stay somewhere else</text>
+                <Opinions>
+                    <Opinion target="NULL" category="HOTEL#GENERAL" polarity="negative" from="0" to="0"/>
+                </Opinions>
+            </sentence>
+            <sentence id="73727_6#1">
+                <text>This has to be the worst hotel I have ever stayed in!</text>
+                <Opinions>
+                    <Opinion target="hotel" category="HOTEL#GENERAL" polarity="negative" from="25" to="30"/>
+                </Opinions>
+            </sentence>
+            <sentence id="73727_6#2">
+                <text>And I was there 20 days on business needless to say I didnt pay for it!</text>
+            </sentence>
+            <sentence id="73727_6#3">
+                <text>Their was no HOT WATER!</text>
+                <Opinions>
+                    <Opinion target="NULL" category="ROOMS#COMFORT" polarity="negative" from="0" to="0"/>
+                </Opinions>
+            </sentence>
+            <sentence id="73727_6#4">
+                <text>The beds are very hard.</text>
+                <Opinions>
+                    <Opinion target="beds" category="ROOMS#COMFORT" polarity="negative" from="4" to="8"/>
+                </Opinions>
+            </sentence>
+            <sentence id="73727_6#5">
+                <text>The staff was friendly.</text>
+                <Opinions>
+                    <Opinion target="staff" category="SERVICE#GENERAL" polarity="positive" from="4" to="9"/>
+                </Opinions>
+            </sentence>
+            <sentence id="73727_6#6">
+                <text>No wifi only in the hotel lobby.</text>
+                <Opinions>
+                    <Opinion target="NULL" category="ROOMS#DESIGN_FEATURES" polarity="negative" from="20" to="31"/>
+                </Opinions>
+            </sentence>
+            <sentence id="73727_6#7">
+                <text>If you get a suite with a stove dont except dishes, pots and pans they do not provide them you have to buy your own.</text>
+				<Opinions>
+                    <Opinion target="suite" category="ROOMS#DESIGN_FEATURES" polarity="negative" from="13" to="18"/>
+                </Opinions>
+            </sentence>
+            <sentence id="73727_6#8">
+                <text>Pay the 20 extra and stay somewhere's else</text>
+                <Opinions>
+                    <Opinion target="NULL" category="HOTEL#GENERAL" polarity="negative" from="0" to="0"/>
+                </Opinions>
+            </sentence>
+        </sentences>
+    </Review>
+	<Review rid="73718_19">
+        <sentences>
+            <sentence id="73718_19#0">
+                <text>Great hotel, great location, great price</text>
+                <Opinions>
+                    <Opinion target="hotel" category="HOTEL#GENERAL" polarity="positive" from="6" to="11"/>
+                    <Opinion target="location" category="LOCATION#GENERAL" polarity="positive" from="19" to="27"/>
+                    <Opinion target="hotel" category="HOTEL#PRICES" polarity="positive" from="6" to="11"/>
+                </Opinions>
+            </sentence>
+            <sentence id="73718_19#1">
+                <text>I had a great time at this hotel and did not experience any of what the bad reviews are about.</text>
+                <Opinions>
+                    <Opinion target="hotel" category="HOTEL#GENERAL" polarity="positive" from="27" to="32"/>
+                </Opinions>
+            </sentence>
+            <sentence id="73718_19#2">
+                <text>The staff was very friendly and helpful, the rooms were large and comfortable, the free breakfast was great, and the location downtown was excellent.</text>
+                <Opinions>
+                    <Opinion target="staff" category="SERVICE#GENERAL" polarity="positive" from="4" to="9"/>
+                    <Opinion target="rooms" category="ROOMS#DESIGN_FEATURES" polarity="positive" from="45" to="50"/>
+                    <Opinion target="rooms" category="ROOMS#COMFORT" polarity="positive" from="45" to="50"/>
+                    <Opinion target="breakfast" category="FOOD_DRINKS#PRICES" polarity="positive" from="88" to="97"/>
+                    <Opinion target="breakfast" category="FOOD_DRINKS#QUALITY" polarity="positive" from="88" to="97"/>
+                    <Opinion target="location" category="LOCATION#GENERAL" polarity="positive" from="117" to="125"/>
+                </Opinions>
+            </sentence>
+            <sentence id="73718_19#3" OutOfScope="TRUE">
+                <text>The free shuttle to and from the airport saved us over 30 dollars alone in taxi cab fare (Phoenix Taxi fares are ridiculously expensive) and is also available anywhere downtown.</text>
+            </sentence>
+            <sentence id="73718_19#4">
+                <text>I would highly recommend this hotel to anyone wanting to stay in downtown Phoenix.</text>
+                <Opinions>
+                    <Opinion target="hotel" category="HOTEL#GENERAL" polarity="positive" from="30" to="35"/>
+                </Opinions>
+            </sentence>
+        </sentences>
+    </Review>	
+</Reviews>
