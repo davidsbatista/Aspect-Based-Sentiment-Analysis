@@ -1,0 +1,334 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<Reviews>
+     <Review rid="79">
+        <sentences>
+            <sentence id="79:0">
+                <text>Being a PC user my whole life....</text>
+            </sentence>
+            <sentence id="79:1">
+                <text>This computer is absolutely AMAZING!!!</text>
+                <Opinions>
+                    <Opinion category="LAPTOP#GENERAL" polarity="positive"/>
+                </Opinions>
+            </sentence>
+            <sentence id="79:2">
+                <text>10 plus hours of battery...</text>
+                <Opinions>
+                    <Opinion category="BATTERY#OPERATION_PERFORMANCE" polarity="positive"/>
+                </Opinions>
+            </sentence>
+            <sentence id="79:3">
+                <text>super fast processor and really nice graphics card..</text>
+                <Opinions>
+                    <Opinion category="CPU#OPERATION_PERFORMANCE" polarity="positive"/>
+                    <Opinion category="GRAPHICS#GENERAL" polarity="positive"/>
+                </Opinions>
+            </sentence>
+            <sentence id="79:4">
+                <text>and plenty of storage with 250 gb(though I will upgrade this and the ram..)</text>
+                <Opinions>
+                    <Opinion category="HARD_DISC#DESIGN_FEATURES" polarity="positive"/>
+                </Opinions>
+            </sentence>
+            <sentence id="79:5">
+                <text>This computer is really fast and I'm shocked as to how easy it is to get used to...</text>
+                <Opinions>
+                    <Opinion category="LAPTOP#OPERATION_PERFORMANCE" polarity="positive"/>
+                    <Opinion category="LAPTOP#USABILITY" polarity="positive"/>
+                </Opinions>
+            </sentence>
+            <sentence id="79:6">
+                <text>I've only had mine a day but I'm already used to it...</text>
+                <Opinions>
+                    <Opinion category="LAPTOP#USABILITY" polarity="positive"/>
+                </Opinions>
+            </sentence>
+            <sentence id="79:7" OutOfScope="TRUE">
+                <text>MACS ARE AMAZING!!!</text>
+            </sentence>
+            <sentence id="79:8">
+                <text>GET THIS COMPUTER FOR PORTABILITY AND FAST PROCESSING!!!</text>
+                <Opinions>
+                    <Opinion category="LAPTOP#PORTABILITY" polarity="positive"/>
+                    <Opinion category="CPU#OPERATION_PERFORMANCE" polarity="positive"/>
+                </Opinions>
+            </sentence>
+        </sentences>
+    </Review>
+    <Review rid="237">
+        <sentences>
+            <sentence id="237:0">
+                <text>It's fast and has excellent battery life.</text>
+                <Opinions>
+                    <Opinion category="LAPTOP#OPERATION_PERFORMANCE" polarity="positive"/>
+                    <Opinion category="BATTERY#OPERATION_PERFORMANCE" polarity="positive"/>
+                </Opinions>
+            </sentence>
+            <sentence id="237:1">
+                <text>The screen shows great colors.</text>
+                <Opinions>
+                    <Opinion category="DISPLAY#QUALITY" polarity="positive"/>
+                </Opinions>
+            </sentence>
+        </sentences>
+    </Review>
+    <Review rid="175">
+        <sentences>
+            <sentence id="175:0">
+                <text>From the moment I opened the box to the present it has been a great joy.</text>
+                <Opinions>
+                    <Opinion category="LAPTOP#GENERAL" polarity="positive"/>
+                </Opinions>
+            </sentence>
+            <sentence id="175:1">
+                <text>It is always reliable, never bugged and responds well.</text>
+                <Opinions>
+                    <Opinion category="LAPTOP#QUALITY" polarity="positive"/>
+                    <Opinion category="LAPTOP#OPERATION_PERFORMANCE" polarity="positive"/>
+                </Opinions>
+            </sentence>
+            <sentence id="175:2">
+                <text>I love the operating system and the preloaded software.</text>
+                <Opinions>
+                    <Opinion category="OS#GENERAL" polarity="positive"/>
+                    <Opinion category="SOFTWARE#GENERAL" polarity="positive"/>
+                </Opinions>
+            </sentence>
+        </sentences>
+    </Review>
+    <Review rid="302">
+        <sentences>
+            <sentence id="302:0" OutOfScope="TRUE">
+                <text>Well, I have to say since I bought my Mac, I won't ever go back to any Windows.</text>
+            </sentence>
+            <sentence id="302:1">
+                <text>It's solid.</text>
+                <Opinions>
+                    <Opinion category="LAPTOP#QUALITY" polarity="positive"/>
+                </Opinions>
+            </sentence>
+            <sentence id="302:2">
+                <text>Love the stability of the Mac software and operating system.</text>
+                <Opinions>
+                    <Opinion category="SOFTWARE#OPERATION_PERFORMANCE" polarity="positive"/>
+                    <Opinion category="OS#OPERATION_PERFORMANCE" polarity="positive"/>
+                </Opinions>
+            </sentence>
+            <sentence id="302:3">
+                <text>The only downfall is a lot of the software I have won't work with Mac and iWork is not worth the price of it.</text>
+                <Opinions>
+                    <Opinion category="SOFTWARE#USABILITY" polarity="negative"/>
+                    <Opinion category="SOFTWARE#GENERAL" polarity="negative"/>
+                    <Opinion category="SOFTWARE#PRICE" polarity="negative"/>
+                </Opinions>
+            </sentence>
+            <sentence id="302:4">
+                <text>It seems to be incompatible with everything else.</text>
+                <Opinions>
+                    <Opinion category="SOFTWARE#USABILITY" polarity="negative"/>
+                </Opinions>
+            </sentence>
+            <sentence id="302:5">
+                <text>But the machine is awesome and iLife is great and I love Snow Leopard X.</text>
+                <Opinions>
+                    <Opinion category="LAPTOP#GENERAL" polarity="positive"/>
+                    <Opinion category="SOFTWARE#GENERAL" polarity="positive"/>
+                    <Opinion category="OS#GENERAL" polarity="positive"/>
+                </Opinions>
+            </sentence>
+        </sentences>
+    </Review>	
+    <Review rid="127">
+        <sentences>
+            <sentence id="127:0">
+                <text>Ever since I bought this laptop, so far I've experience nothing but constant break downs of the laptop and bad customer services I received over the phone with toshiba customer services hotlines.</text>
+                <Opinions>
+                    <Opinion category="LAPTOP#QUALITY" polarity="negative"/>
+                    <Opinion category="SUPPORT#QUALITY" polarity="negative"/>
+                </Opinions>
+            </sentence>
+            <sentence id="127:1">
+                <text>I constantly had to send my laptop in for services every 3 months and it always seems to be the same problem that they said they had already fixed.</text>
+                <Opinions>
+                    <Opinion category="LAPTOP#QUALITY" polarity="negative"/>
+                    <Opinion category="SUPPORT#QUALITY" polarity="negative"/>
+                </Opinions>
+            </sentence>
+            <sentence id="127:2">
+                <text>Toshiba customer services will indirectly deal with your problems by constantly tranferring you from one country to another, and I am not kidding you, I called different hours of the day and you'll get someone else from another country trying to get you to tell them your life story all over again, since they make it sound like they don't have your history list of your calls right in front of them.</text>
+                <Opinions>
+                    <Opinion category="SUPPORT#QUALITY" polarity="negative"/>
+                </Opinions>
+            </sentence>
+            <sentence id="127:3">
+                <text>It's a long and tirring process that after a while it seems like their game plan was to wear you out so you would want to give up on contacting them.</text>
+                <Opinions>
+                    <Opinion category="SUPPORT#QUALITY" polarity="negative"/>
+                </Opinions>
+            </sentence>
+            <sentence id="127:4">
+                <text>And at one point, they blame me for installing a bad memory stick when I upgrade my memory for the first time during my purchase of the laptop (I bought the memory stick they recomended).</text>
+                <Opinions>
+                    <Opinion category="SUPPORT#QUALITY" polarity="negative"/>
+                </Opinions>
+            </sentence>
+            <sentence id="127:5">
+                <text>Long story short, since I experience so many problems with my laptop every since I bought it from day one, I didn't ask for a new laptop or a refund of what I pay for a crapy laptop, but just an extension of my laptop warranty for another year, they made a big deal of out that and after so many calls and complaints about their products and services, they finally gave in.</text>
+                <Opinions>
+                    <Opinion category="LAPTOP#QUALITY" polarity="negative"/>
+                    <Opinion category="SUPPORT#QUALITY" polarity="negative"/>
+                </Opinions>
+            </sentence>
+            <sentence id="127:6">
+                <text>Was this product worth my time and money to ever want to purchase another products that is toshiba or relating to toshiba?</text>
+              <Opinions>
+                    <Opinion category="LAPTOP#GENERAL" polarity="negative"/>
+                    <Opinion category="COMPANY#GENERAL" polarity="negative"/>
+                </Opinions>
+			</sentence>
+            <sentence id="127:7">
+                <text>Probably not ever again.</text>
+            </sentence>
+            <sentence id="127:8">
+                <text>I'll rather be out of date then spend more money on toshiba.</text>
+                <Opinions>
+                    <Opinion category="COMPANY#GENERAL" polarity="negative"/>
+                </Opinions>
+            </sentence>
+            <sentence id="127:9">
+                <text>Remember to do your research first before consider buying a toshiba product.</text>
+                <Opinions>
+                    <Opinion category="COMPANY#GENERAL" polarity="negative"/>
+                </Opinions>
+            </sentence>
+        </sentences>
+    </Review>
+    <Review rid="160">
+        <sentences>
+            <sentence id="160:0">
+                <text>Purchased as a gift for a friend.</text>
+            </sentence>
+            <sentence id="160:1">
+                <text>The service I received from Toshiba went above and beyond the call of duty.</text>
+                <Opinions>
+                    <Opinion category="SUPPORT#QUALITY" polarity="positive"/>
+                </Opinions>
+            </sentence>
+            <sentence id="160:2">
+                <text>My friend reports the notebook is astonishing in performance, picture quality, and ease of use.</text>
+                <Opinions>
+                    <Opinion category="LAPTOP#OPERATION_PERFORMANCE" polarity="positive"/>
+                    <Opinion category="DISPLAY#QUALITY" polarity="positive"/>
+                    <Opinion category="LAPTOP#USABILITY" polarity="positive"/>
+                </Opinions>
+            </sentence>
+            <sentence id="160:3">
+                <text>It is extremely portable and easily connects to WIFI at the library and elsewhere.</text>
+                <Opinions>
+                    <Opinion category="LAPTOP#PORTABILITY" polarity="positive"/>
+                    <Opinion category="LAPTOP#CONNECTIVITY" polarity="positive"/>
+                </Opinions>
+            </sentence>
+            <sentence id="160:4">
+                <text>Just what the doctor ordered.</text>
+                <Opinions>
+                    <Opinion category="LAPTOP#GENERAL" polarity="positive"/>
+                </Opinions>
+            </sentence>
+        </sentences>
+    </Review>
+    <Review rid="315">
+        <sentences>
+            <sentence id="315:0">
+                <text>the key bindings take a little getting used to, but have loved the Macbook Pro.</text>
+                <Opinions>
+                    <Opinion category="KEYBOARD#USABILITY" polarity="neutral"/>
+                    <Opinion category="LAPTOP#GENERAL" polarity="positive"/>
+                </Opinions>
+            </sentence>
+            <sentence id="315:1">
+                <text>Delivery was early too.</text>
+                <Opinions>
+                    <Opinion category="SHIPPING#QUALITY" polarity="positive"/>
+                </Opinions>
+            </sentence>
+        </sentences>
+    </Review>
+    <Review rid="348">
+        <sentences>
+            <sentence id="348:0">
+                <text>Most everything is fine with this machine: speed, capacity, build.</text>
+                <Opinions>
+                    <Opinion category="LAPTOP#GENERAL" polarity="positive"/>
+                    <Opinion category="LAPTOP#OPERATION_PERFORMANCE" polarity="positive"/>
+                    <Opinion category="HARD_DISC#DESIGN_FEATURES" polarity="positive"/>
+                    <Opinion category="LAPTOP#QUALITY" polarity="positive"/>
+                </Opinions>
+            </sentence>
+            <sentence id="348:1">
+                <text>The only thing I don't understand is that the resolution of the screen isn't high enough for some pages, such as Yahoo!Mail.</text>
+                <Opinions>
+                    <Opinion category="DISPLAY#QUALITY" polarity="negative"/>
+                </Opinions>
+            </sentence>
+            <sentence id="348:2">
+                <text>Yes, I have it on the highest available setting.</text>
+            </sentence>
+        </sentences>
+    </Review>
+    <Review rid="339">
+        <sentences>
+            <sentence id="339:0">
+                <text>Plain and simple, it(laptop) runs great and loads fast.</text>
+                <Opinions>
+                    <Opinion category="LAPTOP#OPERATION_PERFORMANCE" polarity="positive"/>
+                </Opinions>
+            </sentence>
+            <sentence id="339:1">
+                <text>Easy to carry, can be taken anywhere, can be hooked up to printers,headsets.</text>
+                <Opinions>
+                    <Opinion category="LAPTOP#PORTABILITY" polarity="positive"/>
+                    <Opinion category="LAPTOP#CONNECTIVITY" polarity="positive"/>
+                </Opinions>
+            </sentence>
+            <sentence id="339:2" OutOfScope="TRUE">
+                <text>Love that it doesn't take up space like a regular computer.</text>
+            </sentence>
+        </sentences>
+    </Review>
+	<Review rid="16">
+        <sentences>
+            <sentence id="16:0">
+                <text>This computer gets very hot, before shutting down.</text>
+                <Opinions>
+                    <Opinion category="LAPTOP#QUALITY" polarity="negative"/>
+                </Opinions>
+            </sentence>
+            <sentence id="16:1">
+                <text>It is not ideal for children because of the temp.</text>
+                <Opinions>
+                    <Opinion category="LAPTOP#QUALITY" polarity="negative"/>
+                    <Opinion category="LAPTOP#MISCELLANEOUS" polarity="negative"/>
+                </Opinions>
+            </sentence>
+            <sentence id="16:2">
+                <text>I Contacted HP  about this situation and was given excuses, without results.</text>
+                <Opinions>
+                    <Opinion category="SUPPORT#QUALITY" polarity="negative"/>
+                </Opinions>
+            </sentence>
+            <sentence id="16:3">
+                <text>They didn't even try to assist me or even offer a replacement.</text>
+                <Opinions>
+                    <Opinion category="SUPPORT#QUALITY" polarity="negative"/>
+                </Opinions>
+            </sentence>
+            <sentence id="16:4">
+                <text>I will never purchase a HP again ever.</text>
+                <Opinions>
+                    <Opinion category="COMPANY#GENERAL" polarity="negative"/>
+                </Opinions>
+            </sentence>
+        </sentences>
+    </Review>
+</Reviews>
